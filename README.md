@@ -1,2 +1,3 @@
-# react-boilerplate
-React 项目样板
+# React Boilerplate
+
+> React 项目样板
